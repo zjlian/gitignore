@@ -1,7 +1,7 @@
 # .gitignore
 
-### eclipse  
-.settings/  
+## eclipse-java  
+.settings/  
 .metadata/  
 .recommenders/  
 bin/  
