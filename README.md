@@ -1,2 +1,13 @@
-# gitignore
-用到过的 gitignore过滤规则
+# .gitignore
+
+### eclipse
+.settings/
+.metadata/
+.recommenders/
+bin/
+.classpath
+.project
+!README.md
+!.gitignore
+
+### ---
